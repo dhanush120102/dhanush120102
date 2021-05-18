@@ -69,7 +69,7 @@ if __name__ == "__main__":
 	<p align="center">
 		Hi, my name is Dhanush Reddy
 <br />
-![danny](https://user-images.githubusercontent.com/66290459/118655980-b374f300-b807-11eb-8f6a-ab2771c88f42.jpg)
+![danny](https://raw.githubusercontent.com/dhanush120102/dhanush120102/main/danny.jpg)
 
 
 <br />
